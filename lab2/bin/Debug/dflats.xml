@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ArrayOfFlats xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Flats>
+    <Meters >169504</Meters>
+    <Date>2021-03-27T00:41:05.1948587+03:00</Date>
+    <Floor />
+    <Options />
+    <Cost />
+    <NumberOfRooms />
+    <Rooms />
+  </Flats>
+</ArrayOfFlats>
